@@ -68,7 +68,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MBBellini&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -83,7 +83,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mbbellini&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=MBBellini&&style=flat-square" align="center" />
 </div>  
   
 
